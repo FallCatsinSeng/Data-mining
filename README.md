@@ -1,2 +1,0 @@
-# Data-mining
-w
